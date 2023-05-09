@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.profile-img {
+  height: 150px;
+}
+
+.App {
+  height: 80dvh;
+  width: 80dvw;
+  overflow-y: auto;
+}
+
+.table {
+  margin: 0 auto;
+}
